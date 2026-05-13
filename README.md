@@ -2,7 +2,7 @@
 
 ## About
 
-This repo is my attempt at updating the excellent Gordon-UI for the modern toolchain without using Docker or modifying the core code/functionality. Tested working with Windows 10.
+This repo is my attempt at updating the excellent Gordon-UI for the modern toolchain without using Docker or modifying the core code/functionality. Tested working with Windows 10. As it relies on older and deprecated packages, stability is not a guarantee.
 
 ## Links
 - [Gekko Trading Bot](https://github.com/askmike/gekko)
